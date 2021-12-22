@@ -7,6 +7,6 @@ questo gatto è bellino
 Questo lo è di più
 ![crop](https://user-images.githubusercontent.com/93248307/140023267-8944cf3b-8e0f-4193-b0ac-e0ed15c4433a.jpeg)
 
-##MODIFICA Interrogazione
+## MODIFICA Interrogazione
 
 modifica effettuata con visual studio code
